@@ -1,0 +1,9 @@
+The command to run the test can be found in the script which is located in the package.json file e.g npm run cy:run:electron will a spec in the electron browser.
+Data can be changed in the .as-a.ini and cypress.env.json according to the test data that a user will like as a test data
+
+To run this test smoothly, execute this commands:
+npm install
+
+Requirement for this test:
+latest version of node
+version v12 of Cypress
