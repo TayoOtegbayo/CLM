@@ -2,10 +2,12 @@ The command to run the test can be found in the script which is located in the p
 Data can be changed in the .as-a.ini and cypress.env.json according to the test data that a user will like as a test data
 
 To run this test smoothly, execute this commands:
+git clone [filename] //the filename is the CLM name for this project
 npm install
+npm run cy:run:electron //to run in electron or change the browser to Chrome or firefox 
 
 Requirement for this test:
 latest version of node
 version v12 of Cypress
 
-PLEASE NOTE: The test case document for this document is in the xls file while the answer to the theory question is located in the .doc file.
+PLEASE NOTE: The test case document for this document is in the xlsx file while the answer to the theory question is located in the .docx file.
