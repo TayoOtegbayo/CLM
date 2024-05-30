@@ -7,3 +7,5 @@ npm install
 Requirement for this test:
 latest version of node
 version v12 of Cypress
+
+PLEASE NOTE: The test case document for this document is in the xls file while the answer to the theory question is located in the .doc file.
